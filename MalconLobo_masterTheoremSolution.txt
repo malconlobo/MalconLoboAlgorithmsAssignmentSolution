@@ -1,0 +1,5 @@
+1) T(n) is theta(n^log3base2)
+2) T(n) is theta((n^2)*logn)
+3) Masters theorem not applicable as a=2*n is not a constant.
+4) T(n) is theta(n*logn)
+5) T(n) is theta(n^2)
